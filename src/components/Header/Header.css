@@ -1,0 +1,29 @@
+.title {
+  text-transform: uppercase;
+  font-size: 8vw;
+  font-family: "Montserrat", sans-serif;
+  cursor: pointer;
+  margin: 1rem;
+}
+
+
+.header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.divider {
+  margin: 10px;
+  width: 100%;
+  background-color: grey;
+}
+.summry{
+padding-left:200px;
+text-align: left;
+
+}
+li{
+  margin: 2px;
+  padding-bottom: 7px;
+}
